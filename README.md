@@ -26,7 +26,7 @@ dog
 mouse
 }
 
-Outside of the braces, there can be any kind of text; for comments, diagrams, etc.  You should skip over all this text and read the next nonterminal definition.
+Outside of the braces, there can be any kind of text; for comments, diagrams, etc.
 
 {
 <verb>
